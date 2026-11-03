@@ -14,7 +14,7 @@
 
 ## 📖 Что переведено:
 
-<img src="/img/fanny.png" align="right" width="250">
+<img src="/img/fanny.png" align="right" width="350">
 
 Русификация охватывает практически всё текстовое наполнение игры:
 
